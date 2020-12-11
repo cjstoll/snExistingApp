@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables>$text-color:#c2c2c2;&#13;
+$text-muted:#979798;&#13;
+&#13;
+$body-bg:#FFD346;&#13;
+$sp-homepage-bg:#FFB246;&#13;
+$panel-bg:#5550D2;&#13;
+&#13;
+$btn-default-bg:#f9fbe7;&#13;
+&#13;
+$brand-primary:#428bcb;&#13;
+$brand-success:#5cb85d;&#13;
+$brand-warning:#f0ad4f;&#13;
+$brand-danger:#d9534e;&#13;
+$brand-info:#5bc0df;&#13;
+&#13;
+$sp-logo-margin-y:.5rem;&#13;
+$sp-logo-margin-x:1rem;&#13;
+$sp-navbar-divider-color:#83bfff;&#13;
+$navbar-inverse-bg:#289fdb;&#13;
+$navbar-inverse-link-hover-color:#278efc;&#13;
+$navbar-inverse-link-color:#caeefc;&#13;
+&#13;
+$state-success-text:#5cb85d;&#13;
+$sp-tagline-color:#717171;&#13;
+$link-color:#428bcb;&#13;
+</css_variables>
+        <default>false</default>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage/>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="SP Header Menu">d150fd31cb10020000f8d856634c9ce6</sp_rectangle_menu>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>chris.stoll</sys_created_by>
+        <sys_created_on>2018-10-15 18:34:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a5880a234f8167008272ece24210c7c2</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Themed with CSS</sys_name>
+        <sys_package display_value="SP Factory" source="x_snc_sp_factory">60c305eb4f0d27008272ece24210c7b2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SP Factory">60c305eb4f0d27008272ece24210c7b2</sys_scope>
+        <sys_update_name>sp_portal_a5880a234f8167008272ece24210c7c2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-10-28 08:05:20</sys_updated_on>
+        <theme display_value="SP Factory">3e9d7d6f4fcd27008272ece24210c798</theme>
+        <title>Themed with CSS</title>
+        <ts_index_group display_value="portal_index_group">2c3e7d1513c93300e618bfd63244b0d7</ts_index_group>
+        <url_suffix>themed_css</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=a5880a234f8167008272ece24210c7c2"/>
+</record_update>

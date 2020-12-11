@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">14c7caef4f4167008272ece24210c74d</sp_column>
+        <sp_widget display_value="Service Portal Floating Viewport">768bfaeb4f7ce34005be4d6e0210c731</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>chris.stoll</sys_created_by>
+        <sys_created_on>2018-10-15 18:30:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>10c7caef4f4167008272ece24210c74f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VA</sys_name>
+        <sys_package display_value="SP Factory" source="x_snc_sp_factory">60c305eb4f0d27008272ece24210c7b2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SP Factory">60c305eb4f0d27008272ece24210c7b2</sys_scope>
+        <sys_update_name>sp_instance_10c7caef4f4167008272ece24210c74f</sys_update_name>
+        <sys_updated_by>chris.stoll</sys_updated_by>
+        <sys_updated_on>2018-10-15 18:30:48</sys_updated_on>
+        <title>VA</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"button_color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"va_url_params": {
+		"value": "sysparm_topic=14e7970f4fe0a70005be4d6e0210c75d",
+		"displayValue": "sysparm_topic=14e7970f4fe0a70005be4d6e0210c75d"
+	},
+	"embedded_page": {
+		"value": "appointment_list",
+		"displayValue": "appointment_list"
+	},
+	"aria_button_label": {
+		"value": "",
+		"displayValue": ""
+	},
+	"url_system_parameters": {
+		"value": "",
+		"displayValue": ""
+	},
+	"override_dialog_height": {
+		"value": "",
+		"displayValue": ""
+	},
+	"override_dialog_width": {
+		"value": "",
+		"displayValue": ""
+	},
+	"is_sp_page": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"retina_icon": {
+		"value": "",
+		"displayValue": ""
+	},
+	"fa_icon": {
+		"value": "",
+		"displayValue": ""
+	},
+	"use_retina_icon": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=10c7caef4f4167008272ece24210c74f"/>
+</record_update>

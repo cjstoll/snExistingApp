@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_theme">
+    <sp_theme action="INSERT_OR_UPDATE">
+        <css_variables>$body-bg:#FFE799;&#13;
+$sp-homepage-bg:#FFD599;&#13;
+$panel-bg:#9F9CED;&#13;
+</css_variables>
+        <footer/>
+        <footer_fixed>true</footer_fixed>
+        <header display_value="Stock Header">bf5ec2f2cb10120000f8d856634c9c0c</header>
+        <name>SP Factory</name>
+        <navbar_fixed>true</navbar_fixed>
+        <sys_class_name>sp_theme</sys_class_name>
+        <sys_created_by>chris.stoll</sys_created_by>
+        <sys_created_on>2018-10-15 17:46:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3e9d7d6f4fcd27008272ece24210c798</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>SP Factory</sys_name>
+        <sys_package display_value="SP Factory" source="x_snc_sp_factory">60c305eb4f0d27008272ece24210c7b2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SP Factory">60c305eb4f0d27008272ece24210c7b2</sys_scope>
+        <sys_update_name>sp_theme_3e9d7d6f4fcd27008272ece24210c798</sys_update_name>
+        <sys_updated_by>chris.stoll</sys_updated_by>
+        <sys_updated_on>2018-10-15 17:51:13</sys_updated_on>
+    </sp_theme>
+</record_update>

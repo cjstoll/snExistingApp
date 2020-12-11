@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css">
+    <sp_css action="INSERT_OR_UPDATE">
+        <css>html{&#13;
+  background-color: #151186;&#13;
+}&#13;
+body{&#13;
+  background-color: #BF9200;&#13;
+}&#13;
+.panel{&#13;
+  background-color: #0B589D;&#13;
+}</css>
+        <name>SPFactory.css</name>
+        <sys_class_name>sp_css</sys_class_name>
+        <sys_created_by>chris.stoll</sys_created_by>
+        <sys_created_on>2018-10-15 17:49:23</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5d3e79af4fcd27008272ece24210c7ca</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>SPFactory.css</sys_name>
+        <sys_package display_value="SP Factory" source="x_snc_sp_factory">60c305eb4f0d27008272ece24210c7b2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SP Factory">60c305eb4f0d27008272ece24210c7b2</sys_scope>
+        <sys_update_name>sp_css_5d3e79af4fcd27008272ece24210c7ca</sys_update_name>
+        <sys_updated_by>chris.stoll</sys_updated_by>
+        <sys_updated_on>2018-10-15 18:29:03</sys_updated_on>
+    </sp_css>
+</record_update>
